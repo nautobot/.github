@@ -4,7 +4,7 @@
 
 Nautobot is a Network Source of Truth and Network Automation Platform, built atop the Django Python framework.
 
-You can see our core project, apps (plugins), and extended ecosystem (tools like `pynautobot` and `nautobot-ansible`) below and navigate to all docs from [here](docs.nautobot.com).
+You can see our core project, apps (plugins), and extended ecosystem (tools like `pynautobot` and `nautobot-ansible`) below and navigate to all docs from [here](https://docs.nautobot.com).
 
 You can check out a full fledge demo of Nautobot by visiting [https://demo.nautobot.com](https://demo.nautobot.com).
 
