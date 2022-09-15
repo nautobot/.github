@@ -4,7 +4,7 @@
 
 Nautobot is a Network Source of Truth and Network Automation Platform, built atop the Django Python framework.
 
-You can see our core project, plugins, and extended ecosystem (tools like `pynautobot` and `nautobot-ansible`) below.
+You can see our core project, apps (plugins), and extended ecosystem (tools like `pynautobot` and `nautobot-ansible`) below and navigate to all docs from [here](https://docs.nautobot.com).
 
 You can check out a full fledge demo of Nautobot by visiting [https://demo.nautobot.com](https://demo.nautobot.com).
 
@@ -13,6 +13,7 @@ You can check out a full fledge demo of Nautobot by visiting [https://demo.nauto
 - Join us in the **#nautobot** channel on the [Network to Code Slack](https://networktocode.slack.com).
 - Peruse our [GitHub discussions](https://github.com/nautobot/nautobot/discussions) for feature requests or plugin ideas.
 - Looking to contribute to Nautobot? Check out our [contributing guide](https://nautobot.readthedocs.io/en/stable/development/#contributing).
+- Check out the [Nautobot Docs landing page](https://docs.nautobot.com) making it easy to navigate docs from the Nautobot core project and every Nautobot application.
 
 ### Thanks
 
