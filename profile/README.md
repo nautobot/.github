@@ -13,7 +13,7 @@ You can check out a full fledge demo of Nautobot by visiting [https://demo.nauto
 - Join us in the **#nautobot** channel on the [Network to Code Slack](https://networktocode.slack.com).
 - Peruse our [GitHub discussions](https://github.com/nautobot/nautobot/discussions) for feature requests or plugin ideas.
 - Looking to contribute to Nautobot? Check out our [contributing guide](https://nautobot.readthedocs.io/en/stable/development/#contributing).
-- Check out the [Nautobot Docs landing page](docs.nautobot.com) making it easy to navigate docs from the Nautobot core project and every Nautobot application.
+- Check out the [Nautobot Docs landing page](https://docs.nautobot.com) making it easy to navigate docs from the Nautobot core project and every Nautobot application.
 
 ### Thanks
 
